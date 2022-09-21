@@ -1,0 +1,21 @@
+table{
+    border: 1px outset;
+    background-color: rgb(97, 213, 97);
+    border-spacing: 0cm;
+}
+th{
+    border: 1px outset aqua;
+    text-align: center;
+    background-color: rgb(16, 65, 16);
+    color: white;
+    
+}
+td{
+    border: 1px outset aqua;
+}
+tr{
+    border: 1px outset aqua;
+}
+#marcado{
+    background-color: rgb(15, 85, 15);
+}
