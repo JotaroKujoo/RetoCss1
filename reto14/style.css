@@ -1,0 +1,33 @@
+.imagen{
+    height: 90vh;
+
+    display: flex;
+    justify-content: center;
+    z-index: -1;
+}
+
+.tabla{
+    
+
+    display: flex;
+    justify-content: center;
+    z-index: 0;
+    position: fixed;
+    margin-top: 20%;
+    
+
+}
+table{
+    background-color: aliceblue;
+    border: 1px solid black;
+    width: 50vw;
+    height: 5vh;
+    
+}
+td{
+    border: 1px solid black;
+    text-align: center;
+}
+.sombreado{
+    background-color: grey;
+}
