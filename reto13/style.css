@@ -1,6 +1,7 @@
+
 table{
     border: 1px solid black;
-    width: 70vw;
+    width: 30vw;
     height: 10vh;
     
 }
@@ -10,8 +11,17 @@ td{
 }
 h5{
     text-align: center;
+    margin: 0 0 0 0;
 }
+#titulo{
+    text-align: center;
+}
+.tabla{
+    height: 10vh;
 
+    display: flex;
+    justify-content: center;
+}
 .bgreen{
     background-color: rgb(80, 212, 80);
 }
@@ -21,8 +31,8 @@ h5{
 }
 .bpink{
     background-color: plum;
-    text-align:right;
-    padding-top: 20px;
+    text-align: end;
+    vertical-align: bottom;
 }
 .fred{
     color: red;
