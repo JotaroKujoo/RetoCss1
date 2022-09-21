@@ -16,6 +16,17 @@ td{
 tr{
     border: 1px outset aqua;
 }
-#sombreado{
+.sombreado{
     background-color: rgb(15, 85, 15);
+}
+.centrado{
+    text-align: center;
+}
+.tablamodificada{
+    width: 30vw;
+    height: 10vh;
+    border: 3px ridge whitesmoke;
+    background-color: rgb(97, 213, 97);
+    border-spacing: 0cm;
+    padding: 0 0 0 0;
 }
