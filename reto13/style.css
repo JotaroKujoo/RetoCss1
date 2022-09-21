@@ -1,0 +1,29 @@
+table{
+    border: 1px solid black;
+    width: 70vw;
+    height: 10vh;
+    
+}
+td{
+    border: 1px solid black;
+    text-align: center;
+}
+h5{
+    text-align: center;
+}
+
+.bgreen{
+    background-color: rgb(80, 212, 80);
+}
+.bblue{
+    background-color: aqua;
+    text-align: left;
+}
+.bpink{
+    background-color: plum;
+    text-align:right;
+    padding-top: 20px;
+}
+.fred{
+    color: red;
+}
